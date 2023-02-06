@@ -1,0 +1,18 @@
+@font-face {
+    font-family:'Vazir-Regular' ;
+    src: url('../font/Vazir-Regular.woff');
+    
+}
+
+main{ 
+    font-family:'Vazir-Regular' ;
+    min-height: 80vh; 
+}
+footer{
+    font-family:'Vazir-Regular' ;
+}
+header{
+    font-family:'Vazir-Regular' ;
+}
+
+

@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+main{
+  width: 80vh;
+}
+.contaner-app{
+  justify-content: center;
+ align-items: center;
+}
+
+
+

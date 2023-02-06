@@ -1,0 +1,5 @@
+.div-home{
+    display: flexbox;
+    justify-content: center;
+    text-align: left; 
+}
